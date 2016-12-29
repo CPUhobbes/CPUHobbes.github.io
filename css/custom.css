@@ -1,3 +1,23 @@
 .descptTextLeft{
 	text-align: left;
 }
+.appLink{
+	font-size: 26px;
+}
+a.githubTitle:link{
+	font-size: 26px;
+	color: #ffffff;
+	text-decoration:none;
+}
+a.githubTitle:visited { 
+	color: #ffffff; 
+	text-decoration:none;
+}
+a.githubTitle:hover {
+	color: #660000;
+	text-decoration:none;
+}
+a.githubTitle:active {
+	color: #ffffff; 
+	text-decoration:none;
+}
